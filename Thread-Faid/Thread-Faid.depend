@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528920324 source:e:\projects\thread-faid\main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<stdlib.h>
+	<mutex>
+
+1528920424 source:f:\missing stuff\thread-faid\main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<stdlib.h>
+	<mutex>
+
